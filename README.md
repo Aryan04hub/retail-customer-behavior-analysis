@@ -64,7 +64,16 @@ The dataset contains customer and shopping attributes, but does not provide a tr
 
 ## Power BI Dashboard
 
-The report contains five pages, each designed to answer a different set of business questions.
+Explore the complete five-page Power BI dashboard in the PDF below.
+
+**[View the Full Dashboard Report (PDF)](reports/project2.pdf)**
+
+The dashboard covers:
+- Executive Overview
+- Customer Insights
+- Product & Spending Analysis
+- Shopping Behavior
+- Customer Behavior Dashboard
 
 ### Page 1 — Executive Overview
 
